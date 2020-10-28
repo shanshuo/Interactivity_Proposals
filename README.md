@@ -20,5 +20,5 @@ If you find this code useful in your research please cite:
 ```
 
 ## Evaluation
-Download KIEV validation set spatio-temporal interactivity proposals prediction file `kiev_val_pred.json` from this [link](https://surfdrive.surf.nl/files/index.php/s/jgS6woJ9MOz8qIr). \
+Download KIEV validation set spatio-temporal interactivity proposals prediction file `kiev_val_pred.json` from this <a href="https://surfdrive.surf.nl/files/index.php/s/jgS6woJ9MOz8qIr" target="_blank">link</a>. \
 Run ``evaluate.py``.
